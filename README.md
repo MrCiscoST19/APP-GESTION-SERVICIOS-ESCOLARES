@@ -36,8 +36,15 @@ El proyecto es una aplicación de consola diseñada para gestionar diferentes as
 ### 5. **Persistencia de Datos**:
    - **Base de Datos**: Es probable que el proyecto esté conectado a una base de datos que almacena toda la información que se maneja en la aplicación, como los datos de los alumnos, grupos, calificaciones, etc.
    - **Operaciones CRUD**: El proyecto realiza operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los datos escolares, lo cual es típico en este tipo de aplicaciones.
+     
+### 6. **Diagramas UML**:
+**Clases**:
+![ClassDiagram - SC](/ClassDiagram%20-%20SC.png)
 
-### 6. **Equipo de Desarrollo**:
+**Entidad-Relacion(DER)**:
+![E.R. Diagram](/ERDDiagram%20-%20SC.png)
+
+### 7. **Equipo de Desarrollo**:
    - El proyecto fue desarrollado por un equipo de estudiantes, lo que sugiere que fue un trabajo colaborativo, posiblemente como parte de una asignatura o proyecto académico.
 
 En resumen, este proyecto parece ser una aplicación orientada a la gestión escolar, diseñada para interactuar con los datos académicos de una institución a través de un menú de opciones en la consola. Facilita la administración de estudiantes, calificaciones, grupos, y otros elementos, proporcionando una interfaz sencilla para realizar estas tareas.
