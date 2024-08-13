@@ -48,3 +48,8 @@ El proyecto es una aplicación de consola diseñada para gestionar diferentes as
    - El proyecto fue desarrollado por un equipo de estudiantes, lo que sugiere que fue un trabajo colaborativo, posiblemente como parte de una asignatura o proyecto académico.
 
 En resumen, este proyecto parece ser una aplicación orientada a la gestión escolar, diseñada para interactuar con los datos académicos de una institución a través de un menú de opciones en la consola. Facilita la administración de estudiantes, calificaciones, grupos, y otros elementos, proporcionando una interfaz sencilla para realizar estas tareas.
+
+### 7. **Enlaces de apoyo del proyecto**:
+**Base de Datos**:
+https://decisive-cruiser-995.notion.site/MYSQL-MARIADB-XAMMP-DB-7bcf841d1e374ad09c1fb3f79dd9d9bd?pvs=4
+
