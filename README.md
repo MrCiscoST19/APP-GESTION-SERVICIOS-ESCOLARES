@@ -3,7 +3,8 @@
 Bienvenido a la aplicacion de Servicios Escolares.
          
 Este proyecto esta desarrollado por el grupo TIDSM21.
-  Materias: 
+
+Materias: 
   1. Programacion orientado a objetos 
   2. Base de datos
 
